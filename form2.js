@@ -28,5 +28,5 @@ myForm.addEventListener('submit', function(event) {
 
     console.log(formData);
 
-	window.location.href = '/details2.html';
+	window.location.href = 'details2.html';
 });
